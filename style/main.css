@@ -18,20 +18,20 @@ h2 {
     text-align: justify;
 }
 
-strong{
+strong {
     font-weight: bold;
 }
 
-em{
+em {
     font-style: italic;
 }
 
-small{
+small {
     font-size: 12px;
     color: #999;
 }
 
-img{
+img {
     max-width: 100%;
     display: block;
     margin: 0 auto;
@@ -42,7 +42,7 @@ a {
     color: #0077cc;
 }
 
-a:hover{
+a:hover {
     text-decoration: underline;
     color: #005599;
 }
@@ -52,7 +52,6 @@ h1 {
     color: #333;
     text-align: center;
     margin-top: 20px;
-
 }
 
 table {
@@ -67,20 +66,20 @@ td {
     text-align: center;
 }
 
-ol{
+ol {
     list-style-type: decimal;
     margin-left: 20px;
 }
 
-li{
+li {
     margin-bottom: 10px;
 }
 
-form{
+form {
     margin: 20px 0;
 }
 
-label{
+label {
     display: block;
     margin-bottom: 5px;
 }
@@ -88,7 +87,7 @@ label{
 input[type="text"],
 select,
 textarea {
-    width: 100%; 
+    width: 100%;
     padding: 10px;
     margin-bottom: 10px;
     border: 1px solid #ccc;
